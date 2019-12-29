@@ -16,7 +16,7 @@ Using www.zip-codes.com I searched the city for the given market, and picked at 
 
 ### How was this data gathered?
 
-All of this data was gathered manually and inputted into the spreadsheet.
+All of this data was gathered manually and inputted into the spreadsheet. Most of which was from offical league applications/websites, the sources listed below, and the streaming providers directly.
 
 ### Why is this data only include NBA & NHL?
 
