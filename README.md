@@ -6,9 +6,9 @@ This repository contains the data for [this post on my blog](https://charlie.fis
 
 ## FAQ
 
-### What is the difference between the `data.numbers` and `data.csv` files?
+### What is the difference between the `data.numbers`, `data.csv` & `data.pdf` files?
 
-Due to `csv` files not supporting merge cells, and other features such as cell highlighting, I exported a copy in a `csv` format. The data is identical for each.
+There is no data differences between the file formats. Some styling differences exist in each, and in the case of `csv`, where merge cells doesn't work, data is duplicated across the cells that were merged in the Numbers file.
 
 ### How did you determine the Random Zip Code field?
 
