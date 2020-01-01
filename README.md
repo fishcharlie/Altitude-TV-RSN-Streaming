@@ -1,6 +1,6 @@
 # Altitude TV & RSN Streaming
 
-This repository contains the data for [this post on my blog](https://charlie.fish/altitude-tv-rsn-streaming/). Please read that for further information.
+This repository contains the data for [this post on my blog](https://blog.charlie.fish/2019/12/31/altitude-tv-rsn-streaming/). Please read that for further information.
 
 ---
 
